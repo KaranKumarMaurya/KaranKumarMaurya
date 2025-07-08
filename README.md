@@ -39,12 +39,14 @@ From apps that track live location via **BLE and Firebase**, to platforms with *
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🎾 Remote Tennis Ball Machine | BLE-based remote control app with live location | React Native, Node.js, MongoDB, Google Maps API |
-| 📆 Games Club Booking | Club booking app with chat, deep linking, analytics | Flutter, Firebase, Stripe, FCM |
+| 🏥 LEVACLINIC | Health tech platform for patient booking + doctor consultation with full backend analytics & automation | AWS, Snowflake, DBT Cloud, Lightdash, Zapier, Calendly, Zendesk, Pipedrive |
+| 🎾 Tageto(Remote Tennis Ball Machine) | BLE-based remote control app with live location | React Native, Node.js, MongoDB, Google Maps API |
+| 📆 Lazuz(Games Club Booking) | Club booking app with chat, deep linking, analytics | Flutter, Firebase, Stripe, FCM |
 | 📡 eSim Application | Full calling + payment system for eSIM service | React Native, Stripe, Twilio |
 | 🕒 Attendance App | Face & fingerprint-based attendance + location locking | Flutter, Firebase |
-| 🍔 Food Delivery App | Location-enabled food delivery experience | React Native, Google Maps API |
+| 🍔 The MiddleKart(Food Delivery App) | Location-enabled food delivery experience | React Native, Google Maps API |
 | 🎲 Freelance Projects | 10+ apps including Astrology, Invoicing, E-Commerce | Flutter, React Native, Firebase |
+
 
 ---
 
