@@ -29,9 +29,9 @@ From apps that track live location via **BLE and Firebase**, to platforms with *
 - **Computer Fundamentals:** DSA, OOPs, CN, OS  
 - **Mobile:** Flutter, React Native  
 - **Web:** TypeScript, React  
-- **Backend:** Firebase, Node.js, MongoDB, PostgreSQL  
+- **Backend:** Firebase, Node.js, MongoDB
 - **Dev Tools:** Git, GitHub, VS Code, Android Studio  
-- **Others:** Stripe, BLE, FCM, Twilio, Google Analytics, Google Maps API, AWS, DBT, Lightdash, Airbyte
+- **Others:** Stripe, BLE, FCM, Twilio, Google Analytics, Google Maps API, AWS, DBT, Lightdash, Airbyte, Snowflake, Zapier, Zendesk, Pipedrive, Calendly, Customer Io, WhereBy
 
 ---
 
