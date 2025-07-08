@@ -56,8 +56,8 @@ These are real, purpose-driven applications built under product orgs I’ve co-f
 
 | Product | Description | Tech |
 |---------|-------------|------|
-| 🔐 [Secure-H](https://github.com/KaranKumarMaurya/Secure-H) | Emergency SOS + real-time Guardian–Victim tracking | Flutter, Firebase, Realtime DB, Maps |
-| 🆘 [ResQTag](https://github.com/KaranKumarMaurya/ResQTag) | A full-stack security system for home, office, and vehicle safety | Flutter, Firebase, Push Notification, Live Map |
+| 🔐 [Secure-H](https://github.com/Secure-H) | Emergency SOS + real-time Guardian–Victim tracking | Flutter, Firebase, Realtime DB, Maps |
+| 🆘 [ResQTag](https://github.com/ResQTag) | A full-stack security system for home, office, and vehicle safety | Flutter, Firebase, Push Notification, Live Map |
 
 ---
 
