@@ -8,7 +8,7 @@
 ### 👨‍💻 About Me
 
 I’m Karan Kumar Maurya — a developer focused on building technology that protects and empowers.  
-I specialize in creating real-time, safety-focused applications using **AI, IoT, AR**, and **mobile-first systems** that respond when it matters most.
+I specialize in creating real-time, safety-focused applications using **AI, IoT**, and **mobile-first systems** that respond when it matters most.
 
 From apps that track live location via **BLE and Firebase**, to platforms with **live chat, push alerts, payments**, and **instant help desk**, I build full-stack solutions that are fast, scalable, and human-centered.
 
