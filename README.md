@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋 I'm Karan Kumar Maurya</h1>
 <p align="center">
-  🚀 Full Stack Software Engineer | Real-Time Systems & Safety Tech Innovator
+  🚀 Full-Stack Developer – Mobile & Cloud
 </p>
 
 ---
