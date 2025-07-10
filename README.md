@@ -87,7 +87,7 @@ Published: June 2024 | [DOI: 10.22214/ijraset.2024.63483](https://doi.org/10.222
 
 ### 📫 Connect with Me
 
-- 🌐 Portfolio: *Coming soon...*  
+- 🌐 [Portfolio](https://karan-portfolio-dusky.vercel.app)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/karan-kumar-maurya-841666270/)  
 - 📧 karankumarmaurya2002@gmail.com  
 - 🐙 [GitHub](https://github.com/KaranKumarMaurya)
